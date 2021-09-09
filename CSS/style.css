@@ -1,0 +1,36 @@
+body{
+    background-color: lightskyblue;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+header{
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+
+h1{
+    color: red;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+p{
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+img{
+    margin-bottom: 50px;
+}
+
+.img_ctt{
+    margin-bottom: 10px;
+}
+
+footer{
+    margin-top: 80px;
+}
